@@ -1,4 +1,4 @@
-package com.github.lt0m.skeletons.project.features;
+package io.github.lt0m.skeletons.project.features;
 
 import org.junit.runner.RunWith;
 

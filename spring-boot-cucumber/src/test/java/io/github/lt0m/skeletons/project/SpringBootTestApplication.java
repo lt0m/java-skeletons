@@ -1,4 +1,4 @@
-package com.github.lt0m.skeletons.project;
+package io.github.lt0m.skeletons.project;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

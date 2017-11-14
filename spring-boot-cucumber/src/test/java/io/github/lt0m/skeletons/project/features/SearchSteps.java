@@ -1,4 +1,4 @@
-package com.github.lt0m.skeletons.project.features;
+package io.github.lt0m.skeletons.project.features;
 
 import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
